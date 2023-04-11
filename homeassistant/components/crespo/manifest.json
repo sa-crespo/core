@@ -1,0 +1,10 @@
+{
+  "domain": "crespo",
+  "name": "Crespo Home Integration",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://www.example.com",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "requirements": []
+}
